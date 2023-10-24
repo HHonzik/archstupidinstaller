@@ -1,2 +1,2 @@
 # archstupidinstaller
-A stupid installer for Arch Linux. (a lot of F words warning!)
+A stupid installer for Arch Linux that destroys all data on a drive. (a lot of F words warning!)
